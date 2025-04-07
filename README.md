@@ -1,4 +1,4 @@
-# SHOrganization
+# SH Organization
 
 This project includes the review and correction of calculations, as well as the development of charts related to the organization of Sofia Health.
 
